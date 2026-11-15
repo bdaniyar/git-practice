@@ -19,3 +19,5 @@ other changes made by account A
 some changes made by account A
 
 new changes made by account A
+
+.
